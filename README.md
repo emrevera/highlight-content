@@ -29,7 +29,7 @@ The CSS its mostly for presentation, and the important classes are the following
 	display: block;
 	opacity: 1;
 }
-
+```
 
 These are also in charge of the L&F so you can change them to suit your style.
 
