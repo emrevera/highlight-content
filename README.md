@@ -12,7 +12,7 @@ You can add the class "on-top" to make it appear on top of the elements, but kee
 Also, if you want the highlight box to go away when you stop hovering the item, just remove the comment on line 19 of the js/functions.js file. //background.classList.remove('active');
 
 The CSS its mostly for presentation, and the important classes are the following:
-
+```
 .hl-background {
 	position: absolute;
 	opacity: 0;
@@ -29,6 +29,7 @@ The CSS its mostly for presentation, and the important classes are the following
 	display: block;
 	opacity: 1;
 }
+
 
 These are also in charge of the L&F so you can change them to suit your style.
 
