@@ -1,7 +1,7 @@
 # highlight-content
 Follow along and highlight content.
 
-This is a small snippet to create a dynamic way of highligting elements, while the background follows you along. 
+This is a small snippet to create a dynamic way of highlighting elements, while the background follows you along. 
 It works on any element that has a class name "hlt". 
 
 The highlight box is built with a span: 
