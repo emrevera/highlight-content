@@ -1,4 +1,4 @@
-#Follow along and highlight content.
+# Follow along and highlight content.
 
 This is a small snippet to create a dynamic way of highlighting elements, while the background follows you along. 
 It works on any element that has a class name "hlt". 
@@ -35,4 +35,4 @@ The CSS its mostly for presentation, and the important classes are the following
 
 These are also in charge of the L&F so you can change them to suit your style.
  
-[Live demo]http://emrevera.com/follow-along-highlight-content/
+[Live demo](http://emrevera.com/follow-along-highlight-content/)
